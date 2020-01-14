@@ -1,3 +1,3 @@
 # Linux-Scripts
 
-Basic scripts that make your life slightly more easier.
+Some cool Linux scripts that would make your life just a bit easier.
